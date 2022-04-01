@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 /0x01-shell_permissions
+find /11-directories_permissions -type d -exec chmod 755
